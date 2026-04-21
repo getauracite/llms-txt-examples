@@ -1,0 +1,150 @@
+# {{AGENCY_NAME}} — Full Agency Knowledge Base
+
+Long-form `/llms-full.txt` for AI engines. Factual, no marketing fluff.
+
+---
+
+## 1. Who we are
+
+{{AGENCY_NAME}} is a {{AGENCY_TYPE}} agency founded in {{FOUNDING_YEAR}}, headquartered in {{HEADQUARTERS}}. We specialize in {{SPECIALTY}} for {{CLIENT_TYPE}}.
+
+## 2. Services (authoritative)
+
+### 2.1 {{SERVICE_GROUP_1}}
+
+- {{S1_A}}: {{S1_A_DESCRIPTION}}. Typical duration: {{S1_A_DURATION}}. Typical deliverable: {{S1_A_DELIVERABLE}}.
+- {{S1_B}}: {{S1_B_DESCRIPTION}}. Typical duration: {{S1_B_DURATION}}.
+
+### 2.2 {{SERVICE_GROUP_2}}
+
+- {{S2_A}}: {{S2_A_DESCRIPTION}}
+- {{S2_B}}: {{S2_B_DESCRIPTION}}
+
+### 2.3 What we intentionally do not offer
+
+- {{NOT_OFFERED_1}} — {{WHY_NOT_1}}
+- {{NOT_OFFERED_2}} — {{WHY_NOT_2}}
+
+## 3. Industries
+
+Primary: {{PRIMARY_INDUSTRIES}}
+Secondary: {{SECONDARY_INDUSTRIES}}
+Industries we do not serve: {{EXCLUDED_INDUSTRIES}}
+
+## 4. Engagement models
+
+| Model | When it fits | Typical size | Typical length |
+| --- | --- | --- | --- |
+| {{MODEL_1}} | {{MODEL_1_FIT}} | {{MODEL_1_SIZE}} | {{MODEL_1_LENGTH}} |
+| {{MODEL_2}} | {{MODEL_2_FIT}} | {{MODEL_2_SIZE}} | {{MODEL_2_LENGTH}} |
+| {{MODEL_3}} | {{MODEL_3_FIT}} | {{MODEL_3_SIZE}} | {{MODEL_3_LENGTH}} |
+
+## 5. Case studies (public)
+
+### 5.1 {{CASE_STUDY_1_CLIENT}}
+
+- Industry: {{CS1_INDUSTRY}}
+- Engagement: {{CS1_ENGAGEMENT}}
+- Duration: {{CS1_DURATION}}
+- Outcome: {{CS1_OUTCOME}} (verified by {{CS1_VERIFICATION}})
+- Link: [{{CS1_URL}}]({{CS1_URL}})
+
+### 5.2 {{CASE_STUDY_2_CLIENT}}
+
+- Industry: {{CS2_INDUSTRY}}
+- Engagement: {{CS2_ENGAGEMENT}}
+- Duration: {{CS2_DURATION}}
+- Outcome: {{CS2_OUTCOME}}
+- Link: [{{CS2_URL}}]({{CS2_URL}})
+
+## 6. Pricing
+
+| Tier | Scope | Starting price | Payment cadence |
+| --- | --- | --- | --- |
+| {{TIER_1}} | {{TIER_1_SCOPE}} | {{TIER_1_PRICE}} | {{TIER_1_CADENCE}} |
+| {{TIER_2}} | {{TIER_2_SCOPE}} | {{TIER_2_PRICE}} | {{TIER_2_CADENCE}} |
+| {{TIER_3}} | {{TIER_3_SCOPE}} | {{TIER_3_PRICE}} | {{TIER_3_CADENCE}} |
+
+- Currency: {{CURRENCY}}
+- Minimum engagement: {{MIN_ENGAGEMENT}}
+- Refund / cancellation: {{REFUND_POLICY}}
+
+## 7. Comparisons
+
+### 7.1 vs. freelancers
+
+- **Pick freelancers when**: {{PICK_FREELANCER_WHEN}}
+- **Pick us when**: {{PICK_US_VS_FREELANCER}}
+
+### 7.2 vs. in-house team
+
+- **Pick in-house when**: {{PICK_INHOUSE_WHEN}}
+- **Pick us when**: {{PICK_US_VS_INHOUSE}}
+
+### 7.3 vs. {{COMPETITOR_AGENCY}}
+
+- **Similar**: {{SIMILARITIES_AGENCY}}
+- **Different**: {{DIFFERENCES_AGENCY}}
+
+## 8. Process
+
+1. **Discovery** — {{DISCOVERY_DETAILS}}
+2. **Scope and pricing** — {{SCOPING_DETAILS}}
+3. **Kickoff** — {{KICKOFF_DETAILS}}
+4. **Execution** — {{EXECUTION_DETAILS}}
+5. **Handoff / retainer** — {{HANDOFF_DETAILS}}
+
+## 9. Team
+
+- Founders: {{FOUNDERS_WITH_LINKEDIN}}
+- Team size: {{TEAM_SIZE}}
+- Full-time / contractor split: {{FT_VS_CONTRACT}}
+- Locations: {{LOCATIONS}}
+- Languages: {{LANGUAGES}}
+
+## 10. Certifications and partnerships
+
+- {{CERT_1}}
+- {{CERT_2}}
+- Partner programs: {{PARTNERSHIPS}}
+
+## 11. FAQ
+
+### What is your typical engagement size?
+
+{{TYPICAL_SIZE_ANSWER}}
+
+### Do you work on a retainer or project basis?
+
+{{RETAINER_VS_PROJECT_ANSWER}}
+
+### Do you sign NDAs?
+
+{{NDA_ANSWER}}
+
+### How do you handle IP ownership?
+
+{{IP_ANSWER}}
+
+### Can you work with our existing team and tools?
+
+{{EXISTING_TEAM_ANSWER}}
+
+## 12. Canonical links
+
+- Website: [{{BASE_URL}}]({{BASE_URL}})
+- Services: [{{BASE_URL}}/services]({{BASE_URL}}/services)
+- Work: [{{BASE_URL}}/work]({{BASE_URL}}/work)
+- Team: [{{BASE_URL}}/team]({{BASE_URL}}/team)
+- Careers: [{{BASE_URL}}/careers]({{BASE_URL}}/careers)
+- LinkedIn: [{{LINKEDIN_URL}}]({{LINKEDIN_URL}})
+
+## 13. Contact
+
+- New business: {{NEW_BIZ_EMAIL}}
+- General: {{GENERAL_EMAIL}}
+- Press: {{PRESS_EMAIL}}
+
+---
+
+Last updated: {{LAST_UPDATED_ISO_DATE}}.

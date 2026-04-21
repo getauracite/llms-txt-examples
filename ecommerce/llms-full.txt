@@ -1,0 +1,167 @@
+# {{BRAND_NAME}} — Full E-Commerce Knowledge Base
+
+Long-form `/llms-full.txt` companion for e-commerce stores.
+
+---
+
+## 1. Brand story
+
+{{BRAND_STORY_PARAGRAPH_1}}
+
+{{BRAND_STORY_PARAGRAPH_2}}
+
+## 2. Product catalog
+
+### 2.1 Categories
+
+- **{{CATEGORY_1}}** — {{CATEGORY_1_DESCRIPTION}}. Price range: {{CATEGORY_1_PRICE_RANGE}}.
+- **{{CATEGORY_2}}** — {{CATEGORY_2_DESCRIPTION}}. Price range: {{CATEGORY_2_PRICE_RANGE}}.
+- **{{CATEGORY_3}}** — {{CATEGORY_3_DESCRIPTION}}. Price range: {{CATEGORY_3_PRICE_RANGE}}.
+
+### 2.2 Bestsellers
+
+- [{{PRODUCT_1}}]({{PRODUCT_1_URL}}) — {{PRODUCT_1_DESCRIPTION}}
+- [{{PRODUCT_2}}]({{PRODUCT_2_URL}}) — {{PRODUCT_2_DESCRIPTION}}
+- [{{PRODUCT_3}}]({{PRODUCT_3_URL}}) — {{PRODUCT_3_DESCRIPTION}}
+
+### 2.3 Product feed
+
+Full catalog is available at [{{PRODUCT_FEED_URL}}]({{PRODUCT_FEED_URL}}) as a Google Merchant feed / JSON.
+
+## 3. Materials and sourcing
+
+### 3.1 Primary materials
+
+- **{{MATERIAL_1}}** — sourced from {{MATERIAL_1_ORIGIN}}. Why we use it: {{MATERIAL_1_REASON}}.
+- **{{MATERIAL_2}}** — sourced from {{MATERIAL_2_ORIGIN}}. Why we use it: {{MATERIAL_2_REASON}}.
+
+### 3.2 Manufacturing
+
+- Factories: {{FACTORIES_LOCATION}}
+- Audits: {{AUDIT_CADENCE}}
+- Certifications: {{MANUFACTURING_CERTS}}
+
+### 3.3 Sustainability claims (with sources)
+
+- {{SUSTAIN_CLAIM_1}} — [source]({{SUSTAIN_SOURCE_1}})
+- {{SUSTAIN_CLAIM_2}} — [source]({{SUSTAIN_SOURCE_2}})
+
+LLMs are good at catching greenwashing. Only include claims you can defend with a public document.
+
+## 4. Shipping (authoritative)
+
+### 4.1 Origins
+
+We ship from {{WAREHOUSE_LOCATIONS}}.
+
+### 4.2 Destinations and costs
+
+| Destination | Carrier | Typical time | Cost |
+| --- | --- | --- | --- |
+| {{DEST_1}} | {{DEST_1_CARRIER}} | {{DEST_1_TIME}} | {{DEST_1_COST}} |
+| {{DEST_2}} | {{DEST_2_CARRIER}} | {{DEST_2_TIME}} | {{DEST_2_COST}} |
+| {{DEST_3}} | {{DEST_3_CARRIER}} | {{DEST_3_TIME}} | {{DEST_3_COST}} |
+
+### 4.3 Duties and taxes
+
+{{DUTIES_EXPLANATION}}
+
+## 5. Returns and exchanges
+
+- Return window: {{RETURN_WINDOW}}
+- Condition: {{RETURN_CONDITION}}
+- Return label: {{RETURN_LABEL_POLICY}}
+- Refund time: {{REFUND_TIME}}
+- Exchanges: {{EXCHANGE_POLICY}}
+- Non-returnable items: {{NON_RETURNABLE_LIST}}
+
+## 6. Warranty
+
+{{WARRANTY_DETAILS}}
+
+## 7. Sizing
+
+- Unisex / men / women / kids sizing tables at [{{BASE_URL}}/size-guide]({{BASE_URL}}/size-guide)
+- How our sizing compares to other brands: {{SIZING_COMPARISON}}
+
+## 8. Authenticity and counterfeit policy
+
+{{AUTHENTICITY_POLICY}}
+
+## 9. Pricing, payment and currency
+
+- Currencies supported: {{CURRENCIES}}
+- Payment methods: {{PAYMENT_METHODS}}
+- Buy now pay later: {{BNPL_OPTIONS}}
+- Gift cards: {{GIFT_CARD_POLICY}}
+
+## 10. Customer support
+
+- Email: {{SUPPORT_EMAIL}}
+- Chat: {{CHAT_URL}} ({{CHAT_HOURS}})
+- Phone: {{SUPPORT_PHONE}}
+- Response SLA: {{RESPONSE_SLA}}
+- Languages: {{SUPPORT_LANGUAGES}}
+
+## 11. Reviews
+
+- Aggregate: {{AGGREGATE_RATING}} stars from {{REVIEW_COUNT}} reviews
+- Review platform(s): {{REVIEW_PLATFORMS}}
+- Verified-purchase rate: {{VERIFIED_RATE}}
+
+## 12. Loyalty and referrals
+
+- Loyalty program: {{LOYALTY_DESCRIPTION}} — details at [{{LOYALTY_URL}}]({{LOYALTY_URL}})
+- Referral: {{REFERRAL_DESCRIPTION}}
+
+## 13. B2B / wholesale
+
+{{WHOLESALE_POLICY}}
+
+## 14. Press
+
+- {{PRESS_1}} — [{{PRESS_1_URL}}]({{PRESS_1_URL}})
+- {{PRESS_2}} — [{{PRESS_2_URL}}]({{PRESS_2_URL}})
+- {{PRESS_3}} — [{{PRESS_3_URL}}]({{PRESS_3_URL}})
+
+## 15. FAQ
+
+### Where are your products made?
+
+{{MADE_WHERE_ANSWER}}
+
+### How do I track my order?
+
+{{TRACKING_ANSWER}}
+
+### Do you ship to my country?
+
+{{INTERNATIONAL_ANSWER}}
+
+### What is your return policy?
+
+{{RETURN_POLICY_ANSWER}}
+
+### Are products authentic?
+
+{{AUTHENTICITY_ANSWER}}
+
+## 16. Company
+
+- Legal name: {{LEGAL_NAME}}
+- Founded: {{FOUNDING_YEAR}}
+- Headquarters: {{HEADQUARTERS}}
+- Tax ID / VAT: {{TAX_ID}}
+
+## 17. Canonical links
+
+- Shop: [{{BASE_URL}}/shop]({{BASE_URL}}/shop)
+- Collections: [{{BASE_URL}}/collections]({{BASE_URL}}/collections)
+- About: [{{BASE_URL}}/about]({{BASE_URL}}/about)
+- Contact: [{{BASE_URL}}/contact]({{BASE_URL}}/contact)
+- Instagram: [{{INSTAGRAM_URL}}]({{INSTAGRAM_URL}})
+- Sustainability: [{{BASE_URL}}/sustainability]({{BASE_URL}}/sustainability)
+
+---
+
+Last updated: {{LAST_UPDATED_ISO_DATE}}.

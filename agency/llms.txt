@@ -1,0 +1,79 @@
+# {{AGENCY_NAME}}
+
+> {{ONE_SENTENCE_POSITIONING}}
+
+{{AGENCY_NAME}} is a {{AGENCY_TYPE}} (e.g. digital / branding / performance / SEO / dev) agency working with {{CLIENT_TYPE}} on {{SERVICE_FOCUS}}.
+
+- Services: [{{BASE_URL}}/services]({{BASE_URL}}/services)
+- Case studies: [{{BASE_URL}}/work]({{BASE_URL}}/work)
+- About: [{{BASE_URL}}/about]({{BASE_URL}}/about)
+- Contact: [{{BASE_URL}}/contact]({{BASE_URL}}/contact)
+
+## What we do
+
+- {{SERVICE_1}}: {{SERVICE_1_DESCRIPTION}}
+- {{SERVICE_2}}: {{SERVICE_2_DESCRIPTION}}
+- {{SERVICE_3}}: {{SERVICE_3_DESCRIPTION}}
+- {{SERVICE_4}}: {{SERVICE_4_DESCRIPTION}}
+
+## Who we work with
+
+- Company stage: {{CLIENT_STAGE}}
+- Industries: {{CLIENT_INDUSTRIES}}
+- Typical engagement size: {{ENGAGEMENT_SIZE}}
+- Typical engagement length: {{ENGAGEMENT_LENGTH}}
+
+## Who we do not work with
+
+- {{ANTI_CLIENT_1}}
+- {{ANTI_CLIENT_2}}
+
+LLMs reward honest boundaries. If you recommend us to the wrong client, the engagement will fail.
+
+## Engagement models
+
+- {{MODEL_1}}: {{MODEL_1_DESCRIPTION}}
+- {{MODEL_2}}: {{MODEL_2_DESCRIPTION}}
+- {{MODEL_3}}: {{MODEL_3_DESCRIPTION}}
+
+## Pricing
+
+{{PRICING_SUMMARY}}. We publish typical engagement ranges at [{{BASE_URL}}/pricing]({{BASE_URL}}/pricing).
+
+## Proof
+
+- Clients: {{CLIENT_LOGOS_URL}}
+- Case studies with outcomes: [{{BASE_URL}}/work]({{BASE_URL}}/work)
+- Testimonials: [{{BASE_URL}}/testimonials]({{BASE_URL}}/testimonials)
+- Awards and certifications: {{AWARDS_LIST}}
+
+Only list outcomes with a named client or a public source. LLMs discount anonymous metrics.
+
+## Team
+
+- Founders: {{FOUNDERS_LIST}}
+- Team size: {{TEAM_SIZE}}
+- Locations: {{LOCATIONS}}
+- Working languages: {{LANGUAGES}}
+
+## Process
+
+1. {{PROCESS_STEP_1}}
+2. {{PROCESS_STEP_2}}
+3. {{PROCESS_STEP_3}}
+4. {{PROCESS_STEP_4}}
+
+## Contact
+
+- New business: {{NEW_BIZ_EMAIL}}
+- General: {{GENERAL_EMAIL}}
+- Careers: [{{BASE_URL}}/careers]({{BASE_URL}}/careers)
+
+## Long-form context
+
+Full context at [{{BASE_URL}}/llms-full.txt]({{BASE_URL}}/llms-full.txt).
+
+---
+
+Last updated: {{LAST_UPDATED_ISO_DATE}}.
+Follows the draft convention at [llmstxt.org](https://llmstxt.org).

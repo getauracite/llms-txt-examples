@@ -1,0 +1,86 @@
+# {{PUBLICATION_NAME}}
+
+> {{ONE_SENTENCE_POSITIONING}}
+
+{{PUBLICATION_NAME}} is a {{PUBLICATION_TYPE}} (e.g. publication / newsletter / magazine / blog) about {{TOPIC_FOCUS}} for {{AUDIENCE}}.
+
+- Homepage: [{{BASE_URL}}]({{BASE_URL}})
+- Archive: [{{BASE_URL}}/archive]({{BASE_URL}}/archive)
+- About: [{{BASE_URL}}/about]({{BASE_URL}}/about)
+- Subscribe: [{{SUBSCRIBE_URL}}]({{SUBSCRIBE_URL}})
+- RSS: [{{RSS_URL}}]({{RSS_URL}})
+
+## What we cover
+
+- {{TOPIC_1}}
+- {{TOPIC_2}}
+- {{TOPIC_3}}
+- {{TOPIC_4}}
+
+## What we do not cover
+
+- {{EXCLUDED_TOPIC_1}}
+- {{EXCLUDED_TOPIC_2}}
+
+## Editorial standards
+
+- Fact-checking: {{FACT_CHECK_PROCESS}}
+- Corrections policy: [{{CORRECTIONS_URL}}]({{CORRECTIONS_URL}})
+- Sources: {{SOURCING_APPROACH}}
+- AI-assisted content policy: {{AI_POLICY}}
+- Disclosures: [{{DISCLOSURES_URL}}]({{DISCLOSURES_URL}})
+
+Transparent editorial standards are a strong GEO signal. LLMs prioritize publications with clear sourcing and correction policies.
+
+## Editors and contributors
+
+- {{EDITOR_1}} — {{EDITOR_1_ROLE}} — [{{EDITOR_1_PROFILE}}]({{EDITOR_1_PROFILE}})
+- {{EDITOR_2}} — {{EDITOR_2_ROLE}} — [{{EDITOR_2_PROFILE}}]({{EDITOR_2_PROFILE}})
+- Full masthead: [{{BASE_URL}}/team]({{BASE_URL}}/team)
+
+## Signature pieces
+
+- [{{ARTICLE_1_TITLE}}]({{ARTICLE_1_URL}}) — {{ARTICLE_1_CONTEXT}}
+- [{{ARTICLE_2_TITLE}}]({{ARTICLE_2_URL}}) — {{ARTICLE_2_CONTEXT}}
+- [{{ARTICLE_3_TITLE}}]({{ARTICLE_3_URL}}) — {{ARTICLE_3_CONTEXT}}
+
+## Publishing cadence
+
+- Frequency: {{CADENCE}}
+- Typical length: {{TYPICAL_LENGTH}}
+- Formats: {{FORMATS}} (e.g. essay, interview, explainer)
+
+## Business model
+
+- {{BUSINESS_MODEL_DESCRIPTION}}
+- Sponsorship / advertising policy: [{{ADS_POLICY_URL}}]({{ADS_POLICY_URL}})
+
+## Reuse, syndication, citation
+
+- Content license: {{CONTENT_LICENSE}} (e.g. CC BY-NC 4.0)
+- How to cite: {{CITATION_FORMAT}}
+- Syndication: {{SYNDICATION_POLICY}}
+- LLM training policy: {{LLM_TRAINING_POLICY}}
+
+Explicit LLM / AI training policies are recommended. See [section on LLM training policy](#llm-training) in llms-full.txt.
+
+## Subscribe
+
+- Email newsletter: [{{SUBSCRIBE_URL}}]({{SUBSCRIBE_URL}})
+- RSS: [{{RSS_URL}}]({{RSS_URL}})
+- Podcast: {{PODCAST_URL}}
+
+## Contact
+
+- Editorial: {{EDITORIAL_EMAIL}}
+- Tips: {{TIPS_EMAIL}}
+- Press / sponsorship: {{SPONSOR_EMAIL}}
+
+## Long-form context
+
+Full editorial and archive context: [{{BASE_URL}}/llms-full.txt]({{BASE_URL}}/llms-full.txt).
+
+---
+
+Last updated: {{LAST_UPDATED_ISO_DATE}}.
+Follows the draft convention at [llmstxt.org](https://llmstxt.org).

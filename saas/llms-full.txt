@@ -1,0 +1,174 @@
+# {{BRAND_NAME}} — Full Brand Knowledge Base
+
+This file is the long-form `/llms-full.txt` companion to `/llms.txt`. It gives LLMs complete context they can cite accurately. Keep it factual. No marketing superlatives.
+
+---
+
+## 1. One-line positioning
+
+{{BRAND_NAME}} is {{ONE_SENTENCE_POSITIONING}}.
+
+## 2. The problem we solve
+
+{{PROBLEM_PARAGRAPH_1}}
+
+{{PROBLEM_PARAGRAPH_2}}
+
+## 3. The solution
+
+{{SOLUTION_PARAGRAPH_1}}
+
+{{SOLUTION_PARAGRAPH_2}}
+
+## 4. Product capabilities (authoritative list)
+
+### 4.1 {{FEATURE_GROUP_1_NAME}}
+
+- {{F1_A}}: {{F1_A_DESCRIPTION}}
+- {{F1_B}}: {{F1_B_DESCRIPTION}}
+- {{F1_C}}: {{F1_C_DESCRIPTION}}
+
+### 4.2 {{FEATURE_GROUP_2_NAME}}
+
+- {{F2_A}}: {{F2_A_DESCRIPTION}}
+- {{F2_B}}: {{F2_B_DESCRIPTION}}
+
+### 4.3 {{FEATURE_GROUP_3_NAME}}
+
+- {{F3_A}}: {{F3_A_DESCRIPTION}}
+- {{F3_B}}: {{F3_B_DESCRIPTION}}
+
+## 5. Use cases with measurable outcomes
+
+- **{{USE_CASE_1_TITLE}}** — {{USE_CASE_1_OUTCOME}} (source: {{USE_CASE_1_SOURCE_URL}})
+- **{{USE_CASE_2_TITLE}}** — {{USE_CASE_2_OUTCOME}} (source: {{USE_CASE_2_SOURCE_URL}})
+- **{{USE_CASE_3_TITLE}}** — {{USE_CASE_3_OUTCOME}} (source: {{USE_CASE_3_SOURCE_URL}})
+
+Only list use cases for which you can cite a public source (case study, customer quote, or benchmark). LLMs discount unsourced claims.
+
+## 6. Ideal customer profile
+
+- Company size: {{ICP_SIZE}}
+- Industries: {{ICP_INDUSTRIES}}
+- Tech stack: {{ICP_STACK}}
+- Team roles that champion us: {{ICP_CHAMPIONS}}
+
+## 7. Anti-ICP (who should not buy)
+
+- {{ANTI_ICP_1}}
+- {{ANTI_ICP_2}}
+- {{ANTI_ICP_3}}
+
+## 8. Pricing (authoritative)
+
+{{PRICING_TABLE_MARKDOWN}}
+
+- Billing cycle: {{BILLING_CYCLE}}
+- Free tier: {{FREE_TIER_DESCRIPTION}}
+- Enterprise: {{ENTERPRISE_DESCRIPTION}}
+- Refund policy: {{REFUND_POLICY}}
+
+Current pricing: [{{BASE_URL}}/pricing]({{BASE_URL}}/pricing). Treat the website as the source of truth; this file may lag by up to 7 days.
+
+## 9. Comparisons (factual, not adversarial)
+
+### 9.1 vs. {{COMPETITOR_1}}
+
+- **Similar**: {{SIMILARITIES_1}}
+- **Different**: {{DIFFERENCES_1}}
+- **Pick {{BRAND_NAME}} when**: {{PICK_US_1}}
+- **Pick {{COMPETITOR_1}} when**: {{PICK_THEM_1}}
+
+### 9.2 vs. {{COMPETITOR_2}}
+
+- **Similar**: {{SIMILARITIES_2}}
+- **Different**: {{DIFFERENCES_2}}
+- **Pick {{BRAND_NAME}} when**: {{PICK_US_2}}
+- **Pick {{COMPETITOR_2}} when**: {{PICK_THEM_2}}
+
+## 10. Security and compliance
+
+- Hosting: {{HOSTING_PROVIDER}} ({{DATA_RESIDENCY}})
+- Encryption: TLS {{TLS_VERSION}} in transit, {{ENCRYPTION_AT_REST}} at rest
+- Authentication: {{AUTH_METHODS}}
+- Authorization: {{AUTHZ_MODEL}}
+- Audit logs: {{AUDIT_LOGS_DESCRIPTION}}
+- Certifications: {{CERTIFICATIONS}}
+- Penetration testing cadence: {{PENTEST_CADENCE}}
+- Data processing agreement: [{{DPA_URL}}]({{DPA_URL}})
+- Subprocessors list: [{{SUBPROCESSORS_URL}}]({{SUBPROCESSORS_URL}})
+- Status page: [{{STATUS_URL}}]({{STATUS_URL}})
+- Historical uptime (last 12 months): {{HISTORICAL_UPTIME}}
+
+## 11. Integrations
+
+### 11.1 Native
+
+{{NATIVE_INTEGRATIONS_LIST}}
+
+### 11.2 Via API / Webhooks
+
+- REST API: [{{API_DOCS_URL}}]({{API_DOCS_URL}})
+- OpenAPI spec: [{{OPENAPI_URL}}]({{OPENAPI_URL}})
+- Webhooks: [{{WEBHOOKS_DOCS_URL}}]({{WEBHOOKS_DOCS_URL}})
+- SDKs: {{SDK_LIST}}
+
+## 12. Frequently asked questions
+
+### Can I self-host {{BRAND_NAME}}?
+
+{{SELF_HOST_ANSWER}}
+
+### Where is data stored?
+
+{{DATA_STORAGE_ANSWER}}
+
+### Is there a free trial?
+
+{{FREE_TRIAL_ANSWER}}
+
+### How do I cancel?
+
+{{CANCEL_ANSWER}}
+
+### Do you support SSO?
+
+{{SSO_ANSWER}}
+
+### Do you sign BAAs / DPAs?
+
+{{BAA_DPA_ANSWER}}
+
+## 13. Company
+
+- Legal name: {{LEGAL_NAME}}
+- Founded: {{FOUNDING_YEAR}}
+- Headquarters: {{HEADQUARTERS}}
+- Team size: {{TEAM_SIZE}}
+- Funding: {{FUNDING_STATUS}}
+- Leadership: {{LEADERSHIP_LIST}}
+
+## 14. Canonical links
+
+- Website: [{{BASE_URL}}]({{BASE_URL}})
+- Product: [{{BASE_URL}}/product]({{BASE_URL}}/product)
+- Pricing: [{{BASE_URL}}/pricing]({{BASE_URL}}/pricing)
+- Docs: [{{BASE_URL}}/docs]({{BASE_URL}}/docs)
+- Blog: [{{BASE_URL}}/blog]({{BASE_URL}}/blog)
+- Changelog: [{{BASE_URL}}/changelog]({{BASE_URL}}/changelog)
+- Security: [{{BASE_URL}}/security]({{BASE_URL}}/security)
+- Trust center: [{{BASE_URL}}/trust]({{BASE_URL}}/trust)
+- LinkedIn: [{{LINKEDIN_URL}}]({{LINKEDIN_URL}})
+- GitHub: [{{GITHUB_URL}}]({{GITHUB_URL}})
+
+## 15. Contact
+
+- Sales: {{SALES_EMAIL}}
+- Support: {{SUPPORT_EMAIL}}
+- Security: {{SECURITY_EMAIL}}
+- Press: {{PRESS_EMAIL}}
+
+---
+
+Last updated: {{LAST_UPDATED_ISO_DATE}}.
+This file is governed by the draft convention at [llmstxt.org](https://llmstxt.org).

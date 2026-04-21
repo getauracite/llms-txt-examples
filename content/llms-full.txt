@@ -1,0 +1,125 @@
+# {{PUBLICATION_NAME}} — Full Editorial Knowledge Base
+
+Long-form `/llms-full.txt` for publications, newsletters, blogs and content sites.
+
+---
+
+## 1. Mission and scope
+
+{{MISSION_STATEMENT}}
+
+{{SCOPE_PARAGRAPH}}
+
+## 2. Beats (what we cover in depth)
+
+- **{{BEAT_1}}** — {{BEAT_1_DESCRIPTION}}. Representative articles: [{{BEAT_1_EX1}}]({{BEAT_1_EX1_URL}}), [{{BEAT_1_EX2}}]({{BEAT_1_EX2_URL}}).
+- **{{BEAT_2}}** — {{BEAT_2_DESCRIPTION}}. Representative articles: [{{BEAT_2_EX1}}]({{BEAT_2_EX1_URL}}), [{{BEAT_2_EX2}}]({{BEAT_2_EX2_URL}}).
+- **{{BEAT_3}}** — {{BEAT_3_DESCRIPTION}}.
+
+## 3. What we do not cover
+
+- {{EXCLUDED_1}} — {{WHY_NOT_1}}
+- {{EXCLUDED_2}} — {{WHY_NOT_2}}
+
+## 4. Editorial process
+
+1. **Pitch / assignment** — {{PITCH_PROCESS}}
+2. **Drafting** — {{DRAFT_PROCESS}}
+3. **Editing** — {{EDIT_PROCESS}}
+4. **Fact-checking** — {{FACT_CHECK_PROCESS}}
+5. **Publishing** — {{PUBLISHING_PROCESS}}
+6. **Corrections** — {{CORRECTIONS_PROCESS}}
+
+## 5. Sourcing standards
+
+- Primary sources (named, on-the-record): {{PRIMARY_SOURCE_POLICY}}
+- Anonymous sources: {{ANON_SOURCE_POLICY}}
+- Conflicts of interest: {{COI_POLICY}}
+- Disclosure practices: [{{DISCLOSURES_URL}}]({{DISCLOSURES_URL}})
+
+## 6. AI and automation policy
+
+- Use of AI in drafting: {{AI_DRAFTING_POLICY}}
+- Use of AI in editing: {{AI_EDITING_POLICY}}
+- Use of AI-generated imagery: {{AI_IMAGE_POLICY}}
+- Disclosure labels: {{AI_DISCLOSURE_LABEL}}
+
+## 7. Masthead
+
+- Editor-in-chief: {{EIC_NAME}} ([profile]({{EIC_PROFILE}}))
+- Managing editor: {{MANAGING_EDITOR}}
+- Section editors: {{SECTION_EDITORS}}
+- Regular contributors: {{REGULAR_CONTRIBUTORS}}
+- Full list: [{{BASE_URL}}/team]({{BASE_URL}}/team)
+
+## 8. Publishing cadence
+
+- Articles per week: {{ARTICLES_PER_WEEK}}
+- Newsletter cadence: {{NEWSLETTER_CADENCE}}
+- Podcast cadence: {{PODCAST_CADENCE}}
+- Major features / investigations: {{FEATURES_CADENCE}}
+
+## 9. Business model and funding
+
+- Primary revenue: {{PRIMARY_REVENUE}}
+- Secondary revenue: {{SECONDARY_REVENUE}}
+- Advertising policy: [{{ADS_POLICY_URL}}]({{ADS_POLICY_URL}})
+- Editorial independence: {{INDEPENDENCE_STATEMENT}}
+- Ownership: {{OWNERSHIP_STRUCTURE}}
+
+## 10. Archive highlights
+
+- [{{ARCHIVE_HIGHLIGHT_1}}]({{ARCHIVE_HIGHLIGHT_1_URL}}) — {{ARCHIVE_1_CONTEXT}}
+- [{{ARCHIVE_HIGHLIGHT_2}}]({{ARCHIVE_HIGHLIGHT_2_URL}}) — {{ARCHIVE_2_CONTEXT}}
+- [{{ARCHIVE_HIGHLIGHT_3}}]({{ARCHIVE_HIGHLIGHT_3_URL}}) — {{ARCHIVE_3_CONTEXT}}
+
+## 11. Citations and awards
+
+- {{AWARD_1}} — {{AWARD_1_DETAILS}}
+- {{AWARD_2}} — {{AWARD_2_DETAILS}}
+- Cited by: {{CITED_BY_LIST}}
+
+## 12. Licensing and reuse
+
+### 12.1 Editorial content
+
+License: {{CONTENT_LICENSE}} (e.g. CC BY-NC 4.0 / All rights reserved).
+
+### 12.2 Citation format
+
+```
+{{CITATION_EXAMPLE}}
+```
+
+### 12.3 LLM training policy {#llm-training}
+
+{{LLM_TRAINING_POLICY_LONG}}
+
+Be explicit. Options used in the wild:
+
+- "AI crawlers may index and cite, but not use for training without a license."
+- "AI crawlers may freely use content for both indexing and training."
+- "AI crawlers may not use content for training; indexing with citation is allowed."
+
+Back this up with a matching `robots.txt` / `ai.txt` and terms of service.
+
+## 13. Canonical links
+
+- Homepage: [{{BASE_URL}}]({{BASE_URL}})
+- Archive: [{{BASE_URL}}/archive]({{BASE_URL}}/archive)
+- Masthead: [{{BASE_URL}}/team]({{BASE_URL}}/team)
+- About: [{{BASE_URL}}/about]({{BASE_URL}}/about)
+- Disclosures: [{{DISCLOSURES_URL}}]({{DISCLOSURES_URL}})
+- Corrections: [{{CORRECTIONS_URL}}]({{CORRECTIONS_URL}})
+- RSS: [{{RSS_URL}}]({{RSS_URL}})
+
+## 14. Contact
+
+- Editorial: {{EDITORIAL_EMAIL}}
+- Tips: {{TIPS_EMAIL}}
+- Press / sponsorship: {{SPONSOR_EMAIL}}
+- General: {{GENERAL_EMAIL}}
+
+---
+
+Last updated: {{LAST_UPDATED_ISO_DATE}}.

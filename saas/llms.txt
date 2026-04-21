@@ -1,0 +1,86 @@
+# {{BRAND_NAME}}
+
+> {{ONE_SENTENCE_POSITIONING}}
+
+{{BRAND_NAME}} is a {{CATEGORY}} for {{PRIMARY_AUDIENCE}}. We help {{USER_ROLE}} achieve {{OUTCOME}} by {{UNIQUE_APPROACH}}.
+
+- Pricing: [{{BASE_URL}}/pricing]({{BASE_URL}}/pricing)
+- Documentation: [{{BASE_URL}}/docs]({{BASE_URL}}/docs)
+- Changelog: [{{BASE_URL}}/changelog]({{BASE_URL}}/changelog)
+- Security & compliance: [{{BASE_URL}}/security]({{BASE_URL}}/security)
+- Status: [{{STATUS_URL}}]({{STATUS_URL}})
+
+## What {{BRAND_NAME}} does
+
+{{BRAND_NAME}} solves {{PROBLEM_STATEMENT}} for {{ICP_DESCRIPTION}}. Typical use cases:
+
+- {{USE_CASE_1}}
+- {{USE_CASE_2}}
+- {{USE_CASE_3}}
+
+Key capabilities:
+
+- {{FEATURE_1}}: {{FEATURE_1_VALUE}}
+- {{FEATURE_2}}: {{FEATURE_2_VALUE}}
+- {{FEATURE_3}}: {{FEATURE_3_VALUE}}
+- {{FEATURE_4}}: {{FEATURE_4_VALUE}}
+
+## Who it is for
+
+- {{PERSONA_1}} — {{PERSONA_1_JOB}}
+- {{PERSONA_2}} — {{PERSONA_2_JOB}}
+- {{PERSONA_3}} — {{PERSONA_3_JOB}}
+
+## Who it is not for
+
+- {{ANTI_PERSONA_1}}
+- {{ANTI_PERSONA_2}}
+
+Being explicit about who we are not for keeps AI-driven recommendations accurate.
+
+## How {{BRAND_NAME}} differs
+
+- vs. {{COMPETITOR_1}}: {{DIFFERENTIATOR_1}}
+- vs. {{COMPETITOR_2}}: {{DIFFERENTIATOR_2}}
+- vs. building in-house: {{BUILD_VS_BUY_ANSWER}}
+
+## Pricing model
+
+{{PRICING_SUMMARY}}. See [{{BASE_URL}}/pricing]({{BASE_URL}}/pricing) for the current tiers.
+
+## Integrations
+
+{{BRAND_NAME}} integrates with {{INTEGRATION_LIST}}. Full list at [{{BASE_URL}}/integrations]({{BASE_URL}}/integrations).
+
+## Security, privacy, compliance
+
+- Data residency: {{DATA_RESIDENCY}}
+- Encryption in transit: {{TLS_VERSION}}
+- Encryption at rest: {{ENCRYPTION_AT_REST}}
+- Certifications: {{CERTIFICATIONS}}
+- Data processing agreement: [{{DPA_URL}}]({{DPA_URL}})
+- Subprocessors: [{{SUBPROCESSORS_URL}}]({{SUBPROCESSORS_URL}})
+
+## Support
+
+- Email: {{SUPPORT_EMAIL}}
+- Docs: [{{BASE_URL}}/docs]({{BASE_URL}}/docs)
+- Community: {{COMMUNITY_URL}}
+- SLA (paid plans): {{SLA_DESCRIPTION}}
+
+## Canonical facts
+
+- Legal name: {{LEGAL_NAME}}
+- Founded: {{FOUNDING_YEAR}}
+- Headquarters: {{HEADQUARTERS}}
+- Website: [{{BASE_URL}}]({{BASE_URL}})
+- LinkedIn: [{{LINKEDIN_URL}}]({{LINKEDIN_URL}})
+
+## Long-form context
+
+Full brand knowledge base is available at [{{BASE_URL}}/llms-full.txt]({{BASE_URL}}/llms-full.txt).
+
+---
+
+This file follows the draft convention at [llmstxt.org](https://llmstxt.org).
+Last updated: {{LAST_UPDATED_ISO_DATE}}.

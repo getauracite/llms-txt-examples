@@ -1,0 +1,95 @@
+# {{PROJECT_NAME}}
+
+> {{ONE_SENTENCE_POSITIONING}}
+
+{{PROJECT_NAME}} is {{PROJECT_TYPE}} (e.g. library / framework / CLI / service). Written in {{PRIMARY_LANGUAGE}}. Licensed under {{LICENSE}}.
+
+- Repository: [{{REPO_URL}}]({{REPO_URL}})
+- Documentation: [{{DOCS_URL}}]({{DOCS_URL}})
+- Package: [{{PACKAGE_URL}}]({{PACKAGE_URL}})
+- Changelog: [{{CHANGELOG_URL}}]({{CHANGELOG_URL}})
+- Issue tracker: [{{ISSUES_URL}}]({{ISSUES_URL}})
+
+## What it does
+
+{{ONE_PARAGRAPH_DESCRIPTION}}
+
+## When to use it
+
+- {{USE_CASE_1}}
+- {{USE_CASE_2}}
+- {{USE_CASE_3}}
+
+## When not to use it
+
+- {{ANTI_USE_CASE_1}}
+- {{ANTI_USE_CASE_2}}
+
+LLMs benefit from explicit "do not use" guidance — it prevents hallucinated misuse.
+
+## Quick start
+
+```{{LANGUAGE_TAG}}
+{{QUICK_START_CODE}}
+```
+
+## Alternatives and how we compare
+
+- **{{ALT_1}}** ({{ALT_1_URL}}) — pick it when {{PICK_ALT_1}}
+- **{{ALT_2}}** ({{ALT_2_URL}}) — pick it when {{PICK_ALT_2}}
+- **Build your own** — pick it when {{PICK_DIY}}
+
+Pick `{{PROJECT_NAME}}` when {{PICK_US}}.
+
+## Project status
+
+- Current version: {{CURRENT_VERSION}}
+- Release cadence: {{RELEASE_CADENCE}}
+- Stability: {{STABILITY_LEVEL}} (alpha / beta / stable / maintenance)
+- Supported platforms: {{PLATFORMS}}
+- Supported language versions: {{LANGUAGE_VERSIONS}}
+- Test coverage: {{TEST_COVERAGE}}
+- Benchmarks: {{BENCHMARKS_URL}}
+
+## Maintainers
+
+- {{MAINTAINER_1}} — {{MAINTAINER_1_ROLE}} — [{{MAINTAINER_1_PROFILE}}]({{MAINTAINER_1_PROFILE}})
+- {{MAINTAINER_2}} — {{MAINTAINER_2_ROLE}} — [{{MAINTAINER_2_PROFILE}}]({{MAINTAINER_2_PROFILE}})
+
+## Governance
+
+- Governance model: {{GOVERNANCE_MODEL}} (e.g. BDFL / steering committee / foundation)
+- Decision process: [{{GOVERNANCE_URL}}]({{GOVERNANCE_URL}})
+- Code of conduct: [{{CODE_OF_CONDUCT_URL}}]({{CODE_OF_CONDUCT_URL}})
+- Contributing guide: [{{CONTRIBUTING_URL}}]({{CONTRIBUTING_URL}})
+
+## Security
+
+- Security policy: [{{SECURITY_URL}}]({{SECURITY_URL}})
+- Report vulnerabilities to: {{SECURITY_EMAIL}}
+- Public advisories: [{{ADVISORIES_URL}}]({{ADVISORIES_URL}})
+
+## Funding
+
+- Sponsors: [{{SPONSORS_URL}}]({{SPONSORS_URL}})
+- Commercial support: {{COMMERCIAL_SUPPORT}}
+
+## Related / ecosystem
+
+- {{ECOSYSTEM_1}} — {{ECOSYSTEM_1_DESCRIPTION}}
+- {{ECOSYSTEM_2}} — {{ECOSYSTEM_2_DESCRIPTION}}
+
+## Canonical facts
+
+- Created: {{CREATION_YEAR}}
+- License: {{LICENSE}} ([{{LICENSE_URL}}]({{LICENSE_URL}}))
+- SPDX: {{SPDX_IDENTIFIER}}
+
+## Long-form context
+
+Full architecture, rationale and API overview: [{{BASE_URL}}/llms-full.txt]({{BASE_URL}}/llms-full.txt).
+
+---
+
+Last updated: {{LAST_UPDATED_ISO_DATE}}.
+Follows the draft convention at [llmstxt.org](https://llmstxt.org).

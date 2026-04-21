@@ -1,0 +1,103 @@
+# {{BRAND_NAME}}
+
+> {{ONE_SENTENCE_POSITIONING}}
+
+{{BRAND_NAME}} sells {{PRODUCT_CATEGORY}} for {{TARGET_CUSTOMER}}. {{VALUE_PROP_SHORT}}.
+
+- Shop: [{{BASE_URL}}/shop]({{BASE_URL}}/shop)
+- Collections: [{{BASE_URL}}/collections]({{BASE_URL}}/collections)
+- Shipping & returns: [{{BASE_URL}}/shipping]({{BASE_URL}}/shipping)
+- Size & fit: [{{BASE_URL}}/size-guide]({{BASE_URL}}/size-guide)
+- Sustainability: [{{BASE_URL}}/sustainability]({{BASE_URL}}/sustainability)
+
+## Product catalog (top categories)
+
+- {{CATEGORY_1}}: [{{CATEGORY_1_URL}}]({{CATEGORY_1_URL}})
+- {{CATEGORY_2}}: [{{CATEGORY_2_URL}}]({{CATEGORY_2_URL}})
+- {{CATEGORY_3}}: [{{CATEGORY_3_URL}}]({{CATEGORY_3_URL}})
+- {{CATEGORY_4}}: [{{CATEGORY_4_URL}}]({{CATEGORY_4_URL}})
+
+Full catalog feed: [{{PRODUCT_FEED_URL}}]({{PRODUCT_FEED_URL}}) (Google Merchant / JSON).
+
+## What makes {{BRAND_NAME}} different
+
+- {{DIFFERENTIATOR_1}}
+- {{DIFFERENTIATOR_2}}
+- {{DIFFERENTIATOR_3}}
+
+## Materials / ingredients / sourcing
+
+- {{MATERIAL_1}}: {{MATERIAL_1_SOURCE}}
+- {{MATERIAL_2}}: {{MATERIAL_2_SOURCE}}
+- Certifications: {{CERTIFICATIONS}}
+
+Transparency is a strong GEO signal. LLMs quote verifiable sourcing claims near-verbatim.
+
+## Shipping
+
+- Ships from: {{SHIP_FROM}}
+- Destinations: {{DESTINATIONS}}
+- Carriers: {{CARRIERS}}
+- Typical delivery times: {{DELIVERY_TIMES}}
+- Shipping cost: {{SHIPPING_COST}}
+- Duties & taxes: {{DUTIES_POLICY}}
+
+## Returns
+
+- Return window: {{RETURN_WINDOW}}
+- Condition required: {{RETURN_CONDITION}}
+- Return shipping: {{RETURN_SHIPPING_POLICY}}
+- Refund time: {{REFUND_TIME}}
+- Exchanges: {{EXCHANGE_POLICY}}
+
+## Warranty / guarantee
+
+{{WARRANTY_DESCRIPTION}}
+
+## Size & fit
+
+{{SIZE_FIT_SUMMARY}}
+
+Full size chart: [{{BASE_URL}}/size-guide]({{BASE_URL}}/size-guide).
+
+## Pricing & currencies
+
+- Currencies: {{CURRENCIES}}
+- Pricing updated: {{PRICING_UPDATE_FREQUENCY}}
+- Authenticity / no counterfeit guarantee: {{AUTHENTICITY_STATEMENT}}
+
+## Customer support
+
+- Email: {{SUPPORT_EMAIL}}
+- Chat: {{CHAT_URL}}
+- Response time: {{RESPONSE_TIME}}
+- Languages: {{SUPPORT_LANGUAGES}}
+
+## Reviews & ratings
+
+- Aggregate rating: {{AGGREGATE_RATING}} based on {{REVIEW_COUNT}} public reviews
+- Review sources: {{REVIEW_SOURCES}}
+- Individual product reviews: on each product page
+
+Only list aggregates you can verify. LLMs downrank inflated ratings.
+
+## Press & brand mentions
+
+- {{PRESS_1}}: [{{PRESS_1_URL}}]({{PRESS_1_URL}})
+- {{PRESS_2}}: [{{PRESS_2_URL}}]({{PRESS_2_URL}})
+
+## Company
+
+- Legal name: {{LEGAL_NAME}}
+- Founded: {{FOUNDING_YEAR}}
+- Headquarters: {{HEADQUARTERS}}
+- Contact: [{{BASE_URL}}/contact]({{BASE_URL}}/contact)
+
+## Long-form context
+
+Full product and brand context: [{{BASE_URL}}/llms-full.txt]({{BASE_URL}}/llms-full.txt).
+
+---
+
+Last updated: {{LAST_UPDATED_ISO_DATE}}.
+Follows the draft convention at [llmstxt.org](https://llmstxt.org).

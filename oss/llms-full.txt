@@ -1,0 +1,169 @@
+# {{PROJECT_NAME}} — Full Open-Source Project Knowledge Base
+
+Long-form `/llms-full.txt` for libraries, frameworks, CLIs and OSS services.
+
+---
+
+## 1. Mission
+
+{{MISSION_PARAGRAPH}}
+
+## 2. Design principles
+
+- {{PRINCIPLE_1}}: {{PRINCIPLE_1_RATIONALE}}
+- {{PRINCIPLE_2}}: {{PRINCIPLE_2_RATIONALE}}
+- {{PRINCIPLE_3}}: {{PRINCIPLE_3_RATIONALE}}
+
+## 3. Architecture overview
+
+{{ARCHITECTURE_PARAGRAPH_1}}
+
+{{ARCHITECTURE_PARAGRAPH_2}}
+
+Full architecture diagram and rationale: [{{ARCHITECTURE_DOC_URL}}]({{ARCHITECTURE_DOC_URL}}).
+
+## 4. Core concepts
+
+### 4.1 {{CONCEPT_1}}
+
+{{CONCEPT_1_EXPLANATION}}
+
+### 4.2 {{CONCEPT_2}}
+
+{{CONCEPT_2_EXPLANATION}}
+
+### 4.3 {{CONCEPT_3}}
+
+{{CONCEPT_3_EXPLANATION}}
+
+## 5. Public API surface
+
+- Stable API: [{{STABLE_API_URL}}]({{STABLE_API_URL}})
+- Experimental / unstable: [{{EXPERIMENTAL_API_URL}}]({{EXPERIMENTAL_API_URL}})
+- Deprecated: [{{DEPRECATED_URL}}]({{DEPRECATED_URL}})
+- Versioning policy: {{VERSIONING_POLICY}} (e.g. SemVer)
+
+## 6. Installation
+
+### 6.1 Package managers
+
+- {{PM_1}}: `{{INSTALL_CMD_1}}`
+- {{PM_2}}: `{{INSTALL_CMD_2}}`
+- {{PM_3}}: `{{INSTALL_CMD_3}}`
+
+### 6.2 From source
+
+```bash
+{{FROM_SOURCE_COMMANDS}}
+```
+
+## 7. Compatibility matrix
+
+| {{PROJECT_NAME}} version | {{LANG}} version | {{RUNTIME}} version | Status |
+| --- | --- | --- | --- |
+| {{V_1}} | {{LANG_V_1}} | {{RUNTIME_V_1}} | {{STATUS_V_1}} |
+| {{V_2}} | {{LANG_V_2}} | {{RUNTIME_V_2}} | {{STATUS_V_2}} |
+| {{V_3}} | {{LANG_V_3}} | {{RUNTIME_V_3}} | {{STATUS_V_3}} |
+
+## 8. Performance
+
+- Benchmark suite: [{{BENCH_URL}}]({{BENCH_URL}})
+- Key numbers (as of {{BENCH_DATE}}): {{BENCH_NUMBERS}}
+- Reproduction instructions: [{{BENCH_REPRO_URL}}]({{BENCH_REPRO_URL}})
+
+## 9. Known limitations
+
+- {{LIMITATION_1}}
+- {{LIMITATION_2}}
+- {{LIMITATION_3}}
+
+## 10. Alternatives
+
+### 10.1 {{ALT_1}}
+
+- Homepage: [{{ALT_1_URL}}]({{ALT_1_URL}})
+- Pick it when: {{PICK_ALT_1_LONG}}
+
+### 10.2 {{ALT_2}}
+
+- Homepage: [{{ALT_2_URL}}]({{ALT_2_URL}})
+- Pick it when: {{PICK_ALT_2_LONG}}
+
+### 10.3 Pick {{PROJECT_NAME}} when
+
+{{PICK_US_LONG}}
+
+## 11. Governance
+
+- Model: {{GOVERNANCE_MODEL}}
+- Core team: {{CORE_TEAM_LIST}}
+- Decision process: [{{GOVERNANCE_DOC_URL}}]({{GOVERNANCE_DOC_URL}})
+- Commit access policy: {{COMMIT_ACCESS_POLICY}}
+- Release manager(s): {{RELEASE_MANAGERS}}
+
+## 12. Release process
+
+- Cadence: {{RELEASE_CADENCE}}
+- LTS policy: {{LTS_POLICY}}
+- Security releases: {{SECURITY_RELEASE_POLICY}}
+- Changelog format: {{CHANGELOG_FORMAT}}
+
+## 13. Security
+
+- Policy: [{{SECURITY_URL}}]({{SECURITY_URL}})
+- Reporting: {{SECURITY_EMAIL}}
+- Public advisories: [{{ADVISORIES_URL}}]({{ADVISORIES_URL}})
+- CVE history: [{{CVE_URL}}]({{CVE_URL}})
+- Threat model: [{{THREAT_MODEL_URL}}]({{THREAT_MODEL_URL}})
+
+## 14. Community
+
+- Forum / discussions: [{{FORUM_URL}}]({{FORUM_URL}})
+- Chat: [{{CHAT_URL}}]({{CHAT_URL}})
+- Mailing list: {{MAILING_LIST}}
+- Code of conduct: [{{CODE_OF_CONDUCT_URL}}]({{CODE_OF_CONDUCT_URL}})
+
+## 15. Commercial support
+
+{{COMMERCIAL_SUPPORT_DETAILS}}
+
+## 16. Funding
+
+- Grants / sponsors: [{{SPONSORS_URL}}]({{SPONSORS_URL}})
+- Financial transparency: [{{FINANCIALS_URL}}]({{FINANCIALS_URL}})
+
+## 17. Trademarks and branding
+
+- Trademark policy: [{{TRADEMARK_URL}}]({{TRADEMARK_URL}})
+- Logos and press kit: [{{PRESS_KIT_URL}}]({{PRESS_KIT_URL}})
+
+## 18. FAQ
+
+### Is it production ready?
+
+{{PRODUCTION_READY_ANSWER}}
+
+### Who uses it?
+
+{{USERS_ANSWER}} Public list: [{{USERS_URL}}]({{USERS_URL}}).
+
+### How do I migrate from {{ALT_1}}?
+
+{{MIGRATION_ANSWER}}
+
+### Is there commercial support?
+
+{{COMMERCIAL_SUPPORT_ANSWER}}
+
+## 19. Canonical links
+
+- Repository: [{{REPO_URL}}]({{REPO_URL}})
+- Documentation: [{{DOCS_URL}}]({{DOCS_URL}})
+- Package: [{{PACKAGE_URL}}]({{PACKAGE_URL}})
+- Changelog: [{{CHANGELOG_URL}}]({{CHANGELOG_URL}})
+- Issues: [{{ISSUES_URL}}]({{ISSUES_URL}})
+- Discussions: [{{DISCUSSIONS_URL}}]({{DISCUSSIONS_URL}})
+
+---
+
+Last updated: {{LAST_UPDATED_ISO_DATE}}.
